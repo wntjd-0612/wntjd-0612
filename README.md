@@ -13,7 +13,11 @@
 
 ## github
 <div align="center">
-<a href="https://opgc.me/#/users/wntjd-0612" target="_blank"><img src="<a href="https://opgc.me/#/users/wntjd-0612" target="_blank"><img src="https://api.opgc.me/githubs/users/wntjd-0612/tag/?theme=basic" /></a>" /></a>   
+<a href="https://opgc.me/#/users/wntjd-0612" target="_blank">
+<a src="https://opgc.me/#/users/wntjd-0612" target="_blank">
+<img src="https://api.opgc.me/githubs/users/wntjd-0612/tag/?theme=basic"/>
+</a>
+</a>   
 
 ![status](https://github-readme-stats.vercel.app/api?username=wntjd-0612&show_icons=true&theme=white)
 
@@ -25,10 +29,9 @@
 ## projects
 
 <details>
-<summary>개발</summary>
+<summary>개발중</summary>
 <table>
-
+    <li><a style="text-decoration: none; color: white; " href="https://github.com/wntjd-0612/Physics_Engine">물리시뮬레이션</a></li>
+    <li><a style="text-decoration: none; color: white; " href="https://github.com/wntjd-0612/find_foodtruck">길거리 음식점 찾기</a></li>
 </table>
 </details>
-
-
