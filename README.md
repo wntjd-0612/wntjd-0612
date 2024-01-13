@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=450&section=header&desc=Sunrin%20Software%20Developer%20118th%0AAnA%2014th%20Director&descAlign=70&text=wntjd-0612&fontSize=70&FontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=wntjd-0612&desc=sunrint%20software%20118th%20AnA%2014th%20director&descAlign=70&descAlignY=60&fontAlignY=40)
 
 </div>
 
