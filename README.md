@@ -7,8 +7,8 @@
 ## solved.ac
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=potterkim0612)](https://solved.ac/potterkim0612/)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=potterkim0612&theme=warm)](https://solved.ac/potterkim0612/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd_0612)](https://solved.ac/wntjd_0612/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=wntjd_0612&theme=warm)](https://solved.ac/wntjd_0612/)
 </div>
 
 ## github
