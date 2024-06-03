@@ -26,6 +26,8 @@
 
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=wntjd-0612&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
 
+<img src="https://ghchart.rshah.org/wntjd-0612" />
+
 </div>
 
 
